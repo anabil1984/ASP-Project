@@ -4,4 +4,4 @@ A simple database management system for universities contains database for
 2- Students in these universities
 3- Courses related to each student
 
-Note: The zip file UniversityWebApp.App is a part form the project. it is just compressed due to manny files it contains.  
+Note: The zip file UniversityWebApp is a part form the project. it is just compressed due to manny files it contains.  
